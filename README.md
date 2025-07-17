@@ -14,7 +14,3 @@ I'm passionate about building intelligent systems that bridge the gap between di
   - 🚗 Autonomous offroad driving systems
   - 🦾 Legged robotics and locomotion
   - 🚁 ...
-
-## 🎯 Mission
-
-Advancing the field of robotics through cutting-edge computer vision techniques that enable machines to perceive, understand, and operate safely in complex real-world scenarios.
