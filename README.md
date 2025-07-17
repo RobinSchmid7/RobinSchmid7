@@ -1,5 +1,8 @@
 [![Profile Views](https://u8views.com/api/v1/github/profiles/33751990/views/day-week-month-total-count.svg)](https://u8views.com/github/RobinSchmid7)
 
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobinSchmid7&theme=github_dark)](https://github.com/RobinSchmid7)
+
+
 # Hi, I'm Robin! 👋
 
 ## 🤖 Computer Vision & Robotics Engineer
