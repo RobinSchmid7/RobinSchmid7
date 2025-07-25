@@ -1,7 +1,4 @@
 # Hi, I'm Robin! 👋
-
-![](https://komarev.com/ghpvc/?username=RobinSchmid7e&color=green)
-
 ## 🤖 Computer Vision & Robotics Engineer
 
 I'm passionate about building intelligent systems that bridge the gap between digital simulation and the physical world. My focus lies in developing robust perception systems that enable robots to navigate, understand, and interact with real-world environments.
